@@ -2,7 +2,7 @@
 
 Welcome to Floating ChatBox Application, where we reimagine the way you chat online.
 
-![Screenshot of Floating ChatBox Application](https://drive.google.com/file/d/1G_QPSXT8iumMXQNAtiVjfHifeGKXTS-E/view?usp=sharing)
+![Screenshot of Floating ChatBox Application](https://cloud.appwrite.io/v1/storage/buckets/64f16ecd0d1273908d5b/files/64f16ed5a8743ec82f38/view?project=64eee0ede1423d22a715&mode=admin)
 
 ## Unique Design:
 Unlike traditional chat applications where each conversation is buried in a list, our app presents each chat as a **floating box** on your screen. Here's what makes our design stand out:
